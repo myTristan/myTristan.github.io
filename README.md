@@ -1,6 +1,6 @@
 # myTristan.github.io
-Zhang Haimingyue’s Personal Homepage
-<h1 align="center">Hi, I'm Zhang Haimingyue</h1>
+Haimingyue Zhang’s Personal Homepage
+<h1 align="center">Hi, I'm Haimingyue Zhang</h1>
 <h3 align="center">An undergraduate student from Tsinghua University, Beijing, China</h3>
 
 - 🔭 I’m currently working on **autonomous driving**
